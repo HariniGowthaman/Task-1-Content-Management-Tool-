@@ -1,5 +1,5 @@
 https://github.com
-/nHarini Gowthaman/n
+Harini Gowthaman
 Bharat intern-task1 
 
 
