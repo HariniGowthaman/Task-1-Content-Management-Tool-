@@ -1,4 +1,4 @@
-https://github.com/philomathtanya/Blog-mangement-System-Bharat-Intern-#blog_management_website
+https://github.com/Harini Gowthaman/Bharat intern-task1 search=1#Bharat intern-task1
 
 ->Virtual Internship at Bharat Intern in Full Stack Development
 
